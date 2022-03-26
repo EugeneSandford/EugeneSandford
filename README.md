@@ -10,8 +10,8 @@
 - 
 - 💞️ I’m looking to collaborate on all projects involving
 -  Python/Django coding with or without Natural Language Processing (NLP)
--  GDPR audits, 
--  IT Management
+-  GDPR projects, 
+-  IT Management projects.
 -  
 - 📫 How to reach me ...
 - eugene.sandford@gmail.com

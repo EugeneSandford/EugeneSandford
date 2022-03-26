@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EugeneSandford
 - 👀 I’m interested in ...
-- Coding in Python/Django and Vue.js, and I was an old (+30 years) Senior Developer in C++ for an old concurrent of Google
+- Coding in Python/Django and Vue.js, and I am an old (+30 years) Senior Developer in C++ for an old concurrent of Google, and I am an
 - expert in GDPR (General Data Protection Privacy Regulation), and
 - expert in IT Management 
 - 
